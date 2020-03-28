@@ -81,7 +81,7 @@ function bot_ui_ini() {
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "研究的方向，是网络工程师以及云计算"
+                                content: "研究的方向，是网络工程师或前端"
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
